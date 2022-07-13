@@ -9,3 +9,6 @@
 - An administrative user for WordPress exists
 - It is possible to login in the backend with the administrative user for WordPress
 - It is possible to view the frontend of the WordPress site
+
+#### Links
+SkillSet: https://my.skilldisplay.eu/en/skillset/507
