@@ -1,6 +1,6 @@
 # CMS | CORE | Installing Wordpress
 ## User Story 1
-As a Developer, I want to setup the latest version of WordPress on a local development server, so that I can work with the Content Management System.
+*As a Developer, I want to setup the latest version of WordPress on a local development server, so that I can work with the Content Management System.*
 
 ### Acceptance Criteria
 - The database user for WordPress is not the root user
