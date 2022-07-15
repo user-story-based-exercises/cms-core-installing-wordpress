@@ -10,5 +10,18 @@
 - It is possible to login in the backend with the administrative user for WordPress
 - It is possible to view the frontend of the WordPress site
 
+## User Story 2
+*As a Developer, I want to enable the debugging mode, so that I can spot problems while developing easily."
+
+### Acceptance Criteria
+- WordPress has been configured to use debugging mode
+
+## User Story 3
+*As a Developer, I want to disable the WordPress cache, so that changes in my code are always reflected immedately."
+
+### Acceptance Criteria
+- WordPress caching has been disabled via the configuration.
+
+
 #### Links
 SkillSet: https://my.skilldisplay.eu/en/skillset/507
